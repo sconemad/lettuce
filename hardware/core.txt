@@ -1,0 +1,259 @@
+Lettuce-v1.0 core board (PIC18F97J60)
+
+Copyright (C) 2007 Andrew Wedgbury <wedge@sconemad.com>
+
+
+*** INTEGRATED CIRCUITS
+
+U1: PIC18F97J60 MCU [LQFP100]
+U2: LF33ABV LDO +3.3v regulator [TO220]
+U3-6: 74AHCT125 Quad 3-state buffer [SO14]
+U7: 25Cxx SPI EEPROM [SO8]
+
+
+*** CRYSTALS
+
+X1: 25MHz can
+
+
+*** CAPACITORS 
+
+1x  220uF/36v Power filter
+1x  25uF Power smoothing
+1x  10uF/10v Vcap
+2x  22pF 0805 Osc
+21x 0.1uF 0805 Decoupling
+
+
+*** RESISTORS  
+
+R1:  0805 SPI-M ID
+R2: 1R 1W Power input
+R3: 470R 0805 Pwr LED limiter
+R4: 470R 0805 Eth LED 1 limiter
+R5: 470R 0805 Eth LED 2 limiter
+R6: 2K26 0805 Ethernet RBIAS
+R7: 49R9 0805 Ethernet TX
+R8: 49R9 0805 Ethernet TX
+R9: 49R9 0805 Ethernet RX
+R10: 49R9 0805 Ethernet RX
+R11:  0805 SPI ID pull-up
+R12: \
+R13: | 
+R14: |  470R 0805 Button pull-downs
+R15: |
+R16: |
+R17: /
+R18: 1M 0805 Osc pll
+R19: 100R 0805 ICSP MCLR isolation
+R20: 1K 0805 Reset pull-down
+R21: 4K7 0805 Reset pull-up
+R22: 0R 0805 ICSP PGD isolation
+R23: 0R 0805 ICSP PGC isolation
+R24: \
+R25: |
+R26: |  10K 0805 Button pull-ups
+R27: |
+R28: |
+R29: /
+
+
+*** DIODES     
+
+1x LED 
+5x 1N4001
+
+
+*** CONNECTORS
+
+J1: ICSP
+J2: RJ45 ethernet jack + integral magnetics
+J3: Power
+J4: AUX
+J5: USART
+J6: BTNS Button headers
+J7: SPIM Master SPI or I2C bus
+J8: SPI1 SPI slave port 1
+J9: AD1
+J10: SPI2 SPI slave port 2
+J11: AD2
+J12: SPI3 SPI slave port 3
+J13: DIG1
+J14: SPI4 SPI slave port 4
+J15: DIG2
+
+
+*** HEADER PINOUTS
+
+ICSP:
+ +---+ 1: <-- !MCLR
+ | 1 | 2: +++ Vdd
+ +---+ 3: --- Gnd
+ | 2 | 4: <-> PGD (RB7)
+ +---+ 5: <-- PGC (RB6)
+ | 3 | 6: NC
+ +---+
+ | 4 | 
+ +---+
+ | 5 |
+ +---+
+ | 6 |
+ +---+ 
+
+AUX
+ +---+---+ 1: <-> RA3
+ | 1 | 2 | 2: <-> RA4
+ +---+---+ 3: <-> RC1
+ | 3 | 4 | 4: <-> RC0
+ +---+---+ 5: <-> RC2
+ | 5 | 6 | 6: <-> RB5
+ +---+---+ 7: +++ Vdd
+ | 7 | 8 | 8: --- Gnd
+ +---+---+ 
+
+USART:
+ +---+---+ 1: --> Tx1
+ | 1 | 2 | 2: --> Tx2
+ +---+---+ 3: <-- Rx1
+ | 3 | 4 | 4: <-- Rx2
+ +---+---+ 5: --- Gnd
+ | 5 | 6 | 6: --- Gnd
+ +---+---+ 7: +++ Vdd
+ | 7 | 8 | 8: +++ Vdd
+ +---+---+ 
+
+SPI-M (master SPI or I2C port)
+ +---+---+ 1: <-- SDI
+ | 1 | 2 | 2: --> SDO
+ +---+---+ 3: <-- SCK
+ | 3 | 4 | 4: --> INT
+ +---+---+ 5: <-- !SS
+ | 5 | 6 | 6: --> SID
+ +---+---+ 7: +++ Vdd
+ | 7 | 8 | 8: --- Gnd
+ +---+---+ 
+
+SPIn (slave port)
+ +---+---+ 1: --> SDO1
+ | 1 | 2 | 2: <-- SDI1
+ +---+---+ 3: --> SCK1
+ | 3 | 4 | 4: <-- INT
+ +---+---+ 5: --> !SE
+ | 5 | 6 | 6: <-- SID
+ +---+---+ 7: +++ Vdd
+ | 7 | 8 | 8: --- Gnd
+ +---+---+ 
+
+DIGn: (digital IO port)
+ +---+---+ 1: <-> D1
+ | 1 | 2 | 2: <-> D2
+ +---+---+ 3: <-> D3
+ | 3 | 4 | 4: <-> D4
+ +---+---+ 5: <-> D5
+ | 5 | 6 | 6: <-> D6
+ +---+---+ 7: <-> D7
+ | 7 | 8 | 8: <-> D8
+ +---+---+ 
+
+ADn: (analog/digital port)
+ +---+---+ 1: <-> D1
+ | 1 | 2 | 2: <-> D2 
+ +---+---+ 3: <-- A1
+ | 3 | 4 | 4: <-- A2
+ +---+---+ 5: <-- A3
+ | 5 | 6 | 6: <-- A4
+ +---+---+ 7: <-- A5
+ | 7 | 8 | 8: <-- A6
+ +---+---+ 
+
+
+*** PIC18F97J60 PORT ASSIGNMENTS
+
+PORTA (low drive)
+0: NET LEDA (link)
+1: NET LEDB (act)
+2: AN2 SPI ID
+3: AN3 [AUX:0] temp sensor?
+4: Timer0 external clock input [AUX:1]
+5: AN4 [AD1:A1]
+
+PORTB (high drive)
+0: INT0 [SPI1:INT]
+1: INT1 [SPI2:INT]
+2: INT2 [SPI3:INT]
+3: INT3 [SPI4:INT]
+4: INT on change [SPIM:INT]
+5: INT on change [AUX:5]
+6: PGC [ICSP]
+7: PGD [ICSP]
+
+PORTC (high drive)
+0: RC0,T1OSO,T13CKI [AUX:3]
+1: RC1,T1OSI,PWM [AUX:2]
+2: RC2,PWM [AUX:4]
+3: SPI1 SCK
+4: SPI1 SDI
+5: SPI1 SDO
+6: [USART:TX1]
+7: [USART:RX2]
+
+PORTD (medium drive)
+0: RD0 [SPI1:!SE]
+1: RD1 [SPI2:!SE]
+2: RD2 [SPI3:!SE]
+3: RD3 [SPI4:!SE]
+4: SPI2 SDO [SPIM:SDO]
+5: SPI2 SDI [SPIM:SDI]
+6: SPI2 SCK [SPIM:SCK]
+7: SPI2 !SS [SPIM:!SS]
+
+PORTE (medium drive)
+0: [DIG1:D1]
+1: [DIG1:D2]
+2: [DIG1:D3]
+3: [DIG1:D4]
+4: [DIG1:D5]
+5: [DIG1:D6]
+6: [DIG1:D7]
+7: [DIG1:D8]
+
+PORTF (low drive)
+0: AN5 [AD1:A2]
+1: AN6 [AD1:A3]
+2: AN7 [AD1:A4]
+3: AN8 [AD1:A5]
+4: AN9 [AD1:A6]
+5: AN10 [AD2:A1]
+6: AN11 [AD2:A2]
+7: [BTNS:2]
+
+PORTG (low drive)
+0: SPI1 EEPROM !CS
+1: [USART:TX2]
+2: [USART:RX2]
+3: [BTNS:5]
+4: [BTNS:3]
+5: [BTNS:1]
+6: [BTNS:0]
+7: [BTNS:4]
+
+PORTH (low drive)
+0: [AD1:D1]
+1: [AD1:D2]
+2: [AD2:D1]
+3: [AD2:D2]
+4: AN12 [AD2:A3]
+5: AN13 [AD2:A4]
+6: AN14 [AD2:A5]
+7: AN15 [AD2:A6]
+
+PORTJ (medium drive)
+0: [DIG2:D1]
+1: [DIG2:D2]
+2: [DIG2:D3]
+3: [DIG2:D4]
+4: [DIG2:D5]
+5: [DIG2:D6]
+6: [DIG2:D7]
+7: [DIG2:D8]
+

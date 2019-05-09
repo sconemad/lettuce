@@ -1,0 +1,14 @@
+unnamed_net12	R3-2 U2-6 
+unnamed_net11	R2-2 U2-2 
+unnamed_net10	R5-1 U2-7 J3-1 
+unnamed_net9	R4-1 U2-1 J2-1 
+unnamed_net8	R5-2 U2-8 R4-2 J6-2 J3-2 J2-2 
+GND	R3-1 J6-3 R2-1 U2-4 J5-3 J4-3 J3-3 J2-3 D?-2 U1-3 J1-8 
++3.3V	J6-1 J5-2 J4-2 U1-1 J1-7 
+unnamed_net7	U2-5 J1-5 
+unnamed_net6	J5-1 J1-4 
+unnamed_net5	U2-3 J1-3 
+unnamed_net4	J4-1 J1-2 
+unnamed_net3	U1-2 J1-1 
+unnamed_net2	D?-1 R1-1 
+unnamed_net1	J1-6 R1-2 

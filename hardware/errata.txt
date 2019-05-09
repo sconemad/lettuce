@@ -1,0 +1,45 @@
+Lettuce-v1.0 errata
+
+2008-04-29 Lettuce-v1.0.1
+
+  * aux: PWM outputs (J2,J3) pin 2 should connect to PWM power not +3.3v.
+    [updated PCB]
+
+  * rs232lin: LINBus power should be isolated from +3.3v and R2.
+    [updated PCB]
+
+  * ioport-busrelay: L,N,E track widths limit max current to 5A, may be room 
+    to enlarge? 180mil would allow 10A with T+20degC, 13A with T+38degC
+
+  * ioport-input: Diode holes too small.
+
+  * ioport: MCP23S17 pin 18 (!RESET) grounded, holding device in reset!
+    Should connect to +3.3v.
+    [updated PCB]
+
+  * aux: Corner of aux board can touch ferrite bead L1 on main board. This
+    shorts +3.3v to Gnd.
+    [updated PCB]
+
+  * aux: Comparator -ve inputs should be biased to 1/2 supply, need to add a
+    further 10K resistor for each.
+
+  * ioport: Need to add decoupling caps, essenial to cope with mains noise.
+
+2007-10-03 Lettuce-v1.0.0
+
+  * core: R9, R10 labels inverted.
+    [fixed v1.0.1]
+
+  * core: J1 header too close to J2 so cannot plug in Pickit-2 programmer.
+    Can work around by:
+    - Programming before soldering these components.
+    - Use R/A header for J1 (though this obscures text on silkscreen).
+    - Use extension cable when using Pickit-2 programmer.
+
+  * core: X1 too close to C4,C1,C2,R18.
+    Can work around by raising X1 slightly. Some insulation would help too.
+    [spacing increased in v1.0.1]
+
+  * rs232: RS-232 header pinouts incorrect.
+    [fixed v1.0.1]

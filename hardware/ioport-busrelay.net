@@ -1,0 +1,30 @@
+unnamed_net28	J9-3 REL8-3 
+unnamed_net27	J8-3 REL7-3 
+unnamed_net26	J7-3 REL6-3 
+unnamed_net25	J6-3 REL5-3 
+unnamed_net24	J5-3 REL4-3 
+unnamed_net23	J4-3 REL3-3 
+unnamed_net22	J3-3 REL2-3 
+unnamed_net21	REL4-5 U1-15 
+unnamed_net20	REL2-5 U1-17 
+unnamed_net19	REL3-5 U1-16 
+unnamed_net18	REL8-5 U1-11 
+unnamed_net17	REL5-5 U1-14 
+unnamed_net16	REL6-5 U1-13 
+unnamed_net15	REL7-5 U1-12 
+unnamed_net14	J12-3 J8-1 J9-1 J5-1 J3-1 J4-1 J6-1 J7-1 J2-1 
+unnamed_net13	J3-2 J4-2 J5-2 J6-2 J7-2 J8-2 J9-2 J12-2 J2-2 
+unnamed_net12	U1-18 REL1-5 
+unnamed_net11	J11-2 J10-2 U1-10 REL4-4 REL3-4 REL2-4 REL8-4 REL7-4 REL6-4 REL5-4 REL1-4 
+unnamed_net10	J2-3 REL1-3 
+unnamed_net9	J12-1 REL6-1 REL7-1 REL8-1 REL2-1 REL3-1 REL4-1 REL5-1 REL1-1 
+unnamed_net8	U1-4 J1-6 
+unnamed_net7	U1-5 J1-7 
+unnamed_net6	U1-6 J1-8 
+unnamed_net5	U1-7 J1-9 
+unnamed_net4	U1-8 J1-10 
+unnamed_net3	U1-3 J1-5 
++3.3V	J1-1 
+unnamed_net2	U1-2 J1-4 
+unnamed_net1	U1-1 J1-3 
+GND	J10-1 J11-1 U1-9 J1-2 

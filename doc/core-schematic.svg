@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="core-schematic.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="D:\andrewwedgbury\sconemad.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6197">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop6199" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop6201" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12155">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop12157" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop12159" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12155"
+       id="linearGradient12163"
+       x1="382.20316"
+       y1="474.67072"
+       x2="381.73962"
+       y2="487.64963"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6197"
+       id="linearGradient6205"
+       x1="265.13989"
+       y1="274.69144"
+       x2="363.45743"
+       y2="274.69144"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3454">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.7996666"
+         id="feGaussianBlur3456" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0786714"
+     inkscape:cx="286.0602"
+     inkscape:cy="718.72847"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="810"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2383" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.02;stroke-opacity:1"
+       id="rect2676"
+       width="139.96666"
+       height="140"
+       x="530.03333"
+       y="272.36218"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 140,182.36218 L 140,192.36218 L 100,192.36218 L 100,232.36218 L 90,232.36218 L 90,272.36218 L 100,272.36218 L 100,312.36218 L 90,312.36218 L 90,352.36218 L 100,352.36218 L 100,392.36218 L 90,392.36218 L 90,412.36218 L 100,412.36218 L 100,432.36218 L 90,432.36218 L 90,452.36218 L 100,452.36218 L 100,492.36218 L 250,492.36218 L 250,502.36218 L 290,502.36218 L 290,492.36218 L 440,492.36218 L 440,452.36218 L 450,452.36218 L 450,412.36218 L 440,412.36218 L 440,392.36218 L 450,392.36218 L 450,352.36218 L 440,352.36218 L 440,332.36218 L 450,332.36218 L 450,292.36218 L 440,292.36218 L 440,272.36218 L 450,272.36218 L 450,232.36218 L 440,232.36218 L 440,192.36218 L 390,192.36218 L 390,182.36218 L 350,182.36218 L 350,192.36218 L 300,192.36218 L 300,182.36218 L 220,182.36218 L 220,192.36218 L 180,192.36218 L 180,182.36218 L 140,182.36218 z"
+       id="rect2926"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="460"
+       y="248.17358"
+       id="text3714"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="460"
+         y="248.17358"
+         id="tspan2936">SPI-1</tspan><tspan
+         sodipodi:role="line"
+         x="460"
+         y="268.17358"
+         id="tspan2940">AD-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="460"
+       y="308.17358"
+       id="text2958"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="460"
+         y="308.17358"
+         id="tspan2960">SPI-2</tspan><tspan
+         sodipodi:role="line"
+         x="460"
+         y="328.17358"
+         id="tspan2962">AD-2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="460.3092"
+       y="368.07593"
+       id="text2964"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="460.3092"
+         y="368.07593"
+         id="tspan2966">SPI-3</tspan><tspan
+         sodipodi:role="line"
+         x="460.3092"
+         y="388.07593"
+         id="tspan2968">DIG-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="460"
+       y="428.07593"
+       id="text2970"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="460"
+         y="428.07593"
+         id="tspan2972">SPI-4</tspan><tspan
+         sodipodi:role="line"
+         x="460"
+         y="448.07593"
+         id="tspan2974">DIG-2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="143.60156"
+       y="172.36218"
+       id="text2978"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="143.60156"
+         y="172.36218"
+         id="tspan2982">AUX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="221.58984"
+       y="172.36218"
+       id="text2988"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="221.58984"
+         y="172.36218"
+         id="tspan2990">BUTTONS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="344.05093"
+       y="172.36218"
+       id="text3000"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="344.05093"
+         y="172.36218"
+         id="tspan3002">USART</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="248.00391"
+       y="522.36218"
+       id="text3010"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="248.00391"
+         y="522.36218"
+         id="tspan3014">SPI-M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="50"
+       y="258.07593"
+       id="text3777"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="50"
+         y="258.07593"
+         id="tspan3779">NET</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="43.623993"
+       y="338.07593"
+       id="text3783"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="43.623993"
+         y="338.07593"
+         id="tspan3785">ICSP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="27.043907"
+       y="408.07593"
+       id="text3789"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="27.043907"
+         y="408.07593"
+         id="tspan3791">RESET</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="20"
+       y="448.07983"
+       id="text3795"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="20"
+         y="448.07983"
+         id="tspan3797">POWER</tspan></text>
+    <g
+       id="g4076"
+       transform="translate(-140.00001,-390.01282)"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\andrewwedgbury\projects\lettuce\v1\doc\html\lettuce_overview.png"
+         y="682.36218"
+         x="340"
+         height="70"
+         width="140"
+         id="rect3698"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\andrewwedgbury\projects\lettuce\v1\doc\html\lettuce_overview.png"
+         sodipodi:linespacing="125%"
+         id="text3849"
+         y="722.36218"
+         x="360.81641"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           id="tspan3851"
+           y="722.36218"
+           x="360.81641"
+           sodipodi:role="line">PIC18F97J60</tspan></text>
+    </g>
+    <g
+       id="g4081"
+       transform="translate(-70.277344,-420.65234)"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\andrewwedgbury\projects\lettuce\v1\doc\html\lettuce_overview.png"
+         y="802.36218"
+         x="360"
+         height="70"
+         width="90"
+         id="rect3853"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\andrewwedgbury\projects\lettuce\v1\doc\html\lettuce_overview.png"
+         sodipodi:linespacing="125%"
+         id="text3855"
+         y="833.01453"
+         x="370.27734"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           id="tspan3857"
+           y="833.01453"
+           x="370.27734"
+           sodipodi:role="line">1024 Kbit</tspan><tspan
+           id="tspan3859"
+           y="853.01453"
+           x="370.27734"
+           sodipodi:role="line">EEPROM</tspan></text>
+    </g>
+    <path
+       id="path2565"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 320,292.36218 L 320,242.36218 L 450,242.36218 M 420,242.36218 L 420,422.36218 L 450,422.36218 M 420,362.36218 L 450,362.36218 M 420,302.36218 L 450,302.36218 M 420,422.36218 L 420,472.36218 L 340,472.36218 L 340,452.36218"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 270,502.36218 L 270,362.36218"
+       id="path2575"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 450,442.36218 L 430,442.36218 C 430,442.36218 400,442.36218 400,442.36218 L 400,262.36218 L 400,212.36218 L 260,212.36218"
+       id="path2578"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 260,212.36218 L 260,182.36218"
+       id="path2580"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 160,182.36218 L 160,212.36218 L 260,212.36218"
+       id="path2582"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 400,262.36218 L 450,262.36218"
+       id="path2584"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 400,322.36218 L 450,322.36218"
+       id="path2586"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 400,382.36218 L 450,382.36218"
+       id="path2588"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 90,252.36218 L 220,252.36218 L 220,292.36218"
+       id="path2590"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 340,312.36218 L 360,312.36218 L 360,182.36218"
+       id="path2592"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 90,332.36218 L 200,332.36218"
+       id="path2594"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 90,402.36218 L 220,402.36218 L 220,362.36218"
+       id="path2596"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2618"
+       transform="translate(-500,155)"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2602"
+         width="70"
+         height="50"
+         x="620"
+         y="262.36218"
+         inkscape:export-filename="D:\andrewwedgbury\projects\lettuce\v1\doc\html\lettuce_overview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+         x="654.37891"
+         y="281.42859"
+         id="text2604"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="D:\andrewwedgbury\projects\lettuce\v1\doc\html\lettuce_overview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="654.37891"
+           y="281.42859"
+           id="tspan2608">3.3v</tspan><tspan
+           id="tspan2616"
+           sodipodi:role="line"
+           x="654.37891"
+           y="301.42859">regulator</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 90,442.36218 L 120,442.36218"
+       id="path2624"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 190,442.36218 L 240,442.36218 L 240,362.36218"
+       id="path2626"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 540,292.36218 L 560,292.36218"
+       id="path2628"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="570.16663"
+       y="297.36218"
+       id="text2630"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="570.16663"
+         y="297.36218"
+         id="tspan2632">General I/O</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 540,312.36218 L 560,312.36218"
+       id="path2634"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="570.16663"
+       y="317.36218"
+       id="text2636"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="570.16663"
+         y="317.36218"
+         id="tspan2638">USART</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 540,332.36218 L 560,332.36218"
+       id="path2640"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="570.16663"
+       y="337.36218"
+       id="text2642"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="570.16663"
+         y="337.36218"
+         id="tspan2644">SPI</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 540,352.36218 L 560,352.36218"
+       id="path2646"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="570.16663"
+       y="357.36218"
+       id="text2648"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="570.16663"
+         y="357.36218"
+         id="tspan2650">Ethernet</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffff00;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 540,372.36218 L 560,372.36218"
+       id="path2652"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="570.16663"
+       y="377.36218"
+       id="text2654"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="570.16663"
+         y="377.36218"
+         id="tspan2656">ICSP</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 540,392.36218 L 560,392.36218"
+       id="path2658"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="570.16663"
+       y="397.36218"
+       id="text2660"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="570.16663"
+         y="397.36218"
+         id="tspan2662">Power/reset</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 280,292.36218 L 280,212.36218"
+       id="path3458"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 340,332.36218 L 380,332.36218 L 380,182.36218"
+       id="path3460"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 430,232.36218 L 430,252.36218 L 445,242.36218 L 430,232.36218"
+       id="path3462"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 430,292.36218 L 430,312.36218 L 445,302.36218 L 430,292.36218"
+       id="path3464"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 430,352.36218 L 430,372.36218 L 445,362.36218 L 430,352.36218"
+       id="path3466"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 430,412.36218 L 430,432.36218 L 445,422.36218 L 430,412.36218"
+       id="path3468"
+       inkscape:export-filename="X:\www\sconemad\pkg\lettuce\v1\doc\src\core-schematic.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text"
+     style="display:inline" />
+</svg>

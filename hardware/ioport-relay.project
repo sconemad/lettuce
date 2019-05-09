@@ -1,0 +1,11 @@
+# List all the schematics to be netlisted
+# and laid out on the pc board.
+schematics      ioport-relay.sch
+
+elements-dir pkg/newlib
+
+# For an output-name of foo, gsch2pcb generates files
+# foo.net, foo.pcb, and foo.new.pcb.  If there is no
+# output-name specified, the file names are derived from
+# the first listed schematic, i.e. first.net, etc.
+output-name  ioport-relay
