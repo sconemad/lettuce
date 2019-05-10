@@ -1,7 +1,11 @@
 # lettuce
-Networked embedded automation platform
 
-**Note:** the lettuce system was developed between 2006-2010, and is no longer being actively developed.
+---
+
+**Note:** *The lettuce system was developed between 2006-2010, and is no longer being actively developed.
+I've left it here for reference and in the hope that someone may find it useful!*
+
+---
 
 Lettuce aims to be a networked embedded automation platform that is both lightweight and extensible. 
 Its applications include automation, control and entertainment systems in the home, but is also suitable for use in industry.
